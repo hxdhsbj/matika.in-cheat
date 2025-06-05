@@ -26,6 +26,6 @@
     }
 
     window.addEventListener('load', () => {
-        setTimeout(klikniNaScitani, 1000); // Počkej 1 sekundu po načtení stránky
+        setTimeout(klikniNaScitani, 500); // Počkej 1 sekundu po načtení stránky
     });
 })();
