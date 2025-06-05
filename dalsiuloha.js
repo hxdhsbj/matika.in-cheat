@@ -26,6 +26,6 @@
     }
 
     window.addEventListener('load', () => {
-        setTimeout(klikniNaDalsiUlohu, 2000); // čekej 2 sekundy na načtení
+        setTimeout(klikniNaDalsiUlohu, 500); // čekej 2 sekundy na načtení
     });
 })();
