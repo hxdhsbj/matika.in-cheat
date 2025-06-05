@@ -41,6 +41,6 @@
             if (!klikniNaCelkoveHodnoceni()) {
                 cekejAzSeObjevi();
             }
-        }, 1500);
+        }, 500);
     });
 })();
