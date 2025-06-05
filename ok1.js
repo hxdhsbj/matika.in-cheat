@@ -25,6 +25,7 @@
     }
 
     window.addEventListener('load', () => {
-        setTimeout(klikniNaOK, 2000);
+        setTimeout(klikniNaOK, 500);
     });
 })();
+
