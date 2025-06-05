@@ -42,6 +42,6 @@
             if (!zkontrolujTextNaStrance()) {
                 cekejNaGratulaci();
             }
-        }, 1000);
+        }, 500);
     });
 })();
